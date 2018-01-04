@@ -5,8 +5,9 @@
 class Ydao < Formula
   desc "command line youdao"
   homepage "https://github.com/BeginMan/ydao"
-  url "http://beginman.qiniudn.com/ydao-mac64-1.1.tar.gz"
-  sha256 "110a292052c0dbaae78c72942c13829f7260fb8ec5d62fde28eace8598b56a5a"
+  version "1.2"
+  url "http://beginman.qiniudn.com/ydao-mac64-1.2.tar.gz"
+  sha256 "435fff25d9e1c4129cf7d73bebe8d8af69c5d737f190015aa0e1c5213e08d9f0"
 
   # depends_on "cmake" => :build
   depends_on "mpg123" => :run
