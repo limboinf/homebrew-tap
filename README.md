@@ -2,5 +2,5 @@
 homebrew tap for utility tools
 
 ```bash
-$ brew install ydao
+$ brew tap beginman/tap && brew install beginman/tap/ydao
 ```
