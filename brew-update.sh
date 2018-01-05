@@ -16,7 +16,7 @@ do
     sha256Value=$l
 done
 
-cat <<EOF > xx.rb
+cat <<EOF > ydao.rb
 class Ydao < Formula
   desc "command line youdao"
   homepage "https://github.com/BeginMan/ydao"
