@@ -7,7 +7,7 @@ class Ydao < Formula
   homepage "https://github.com/BeginMan/ydao"
   version "1.2"
   url "https://github.com/BeginMan/ydao/releases/download/v1.2.1/ydao-mac64-1.2.tar.gz"
-  sha256 "435fff25d9e1c4129cf7d73bebe8d8af69c5d737f190015aa0e1c5213e08d9f0"
+  sha256 "94cb905b4e12f6c575b293ea652f546b0b88852eca0855de0a870ae1c71526b9"
 
   # depends_on "cmake" => :build
   depends_on "mpg123" => :run
